@@ -1,0 +1,69 @@
+{
+  "resumeTitle": {
+    "title": "ㅇㅇㅇ의 포트폴리오 입니다."
+  },
+
+  "information": {
+    "name": "테스트",
+    "address": "주소를 적어주세요.",
+    "birth": "생년월일을 적어주세요.",
+    "contact": [
+      {
+        "id": 0,
+        "name": "Email.",
+        "href": "dlehdus1433@gmail.com",
+        "isEmail": true
+      },
+      { "id": 1, "name": "Github.", "href": "https://github.com/leedo97y" },
+      { "id": 2, "name": "Blog.", "href": "https://velog.io/@dlehdus97" }
+    ]
+  },
+
+  "project": [
+    {
+      "id": 0,
+      "name": "프로젝트 1 제목",
+      "description": "프로젝트 내용",
+      "shortDesc": "간단한 프로젝트 내용\n- 타임라인으로 보일 것\n- 오래 된 프로젝트 순으로 작성\n- 주가할 경우를 고려해야하기 때문!\n- 항목은 알아서 작성",
+      "repoUrl": "레포지토리 url",
+      "videoUrl": "영상이 있다면 추가해 주세요. 빼거나 optional로 처리해도 좋습니다.",
+      "webUrl": "웹페이지가 있다면 추가해 주세요.",
+      "isTeam": true,
+      "percent": "기여도 작성 칸",
+      "teamInfo": "팀원 정보 작성 칸",
+      "period": ["2022. 02", "2022. 03"],
+      "stack": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "id": 1,
+      "name": "프로젝트 2 제목",
+      "description": "내용을 적어주세요.",
+      "shortDesc": "프로젝트를 짧게 소개해주세요.",
+      "repoUrl": "https://github.com/leedo97y",
+      "videoUrl": "url을 적어주세요.",
+      "webUrl": "웹페이지가 있다면 추가해 주세요.",
+      "isTeam": true,
+      "percent": "기여도 70%",
+      "teamInfo": "FE 3 BE 2",
+      "period": ["2022. 09", "2022. 10"],
+      "stack": ["HTML", "CSS", "JavaScript"]
+    }
+  ],
+
+  "certificate": [
+    {
+      "id": 0,
+      "name": "수상 내역 1",
+      "description": "수상 내용",
+      "date": "수상일",
+      "organizer": "어디서 받은 상인가요?"
+    },
+    {
+      "id": 1,
+      "name": "컴퓨터 활용 능력 2급",
+      "description": "optional 처리 해주셔도 됩니다.",
+      "date": "2020. 12. 30",
+      "organizer": "대한상공회의소"
+    }
+  ]
+}
