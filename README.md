@@ -5,10 +5,15 @@
 포트폴리오를 만들며, 템플릿을 함께 만들었습니다.
 <br/>
 
-배포는 하지 않은 상태이며, `Interface`가 작성되지 않은 코드입니다.
+배포는 하지 않은 상태이며, 간단한 디자인과 함께 반응형으로 제작되었습니다. 
 <br/>
 
-간단한 디자인과 함께 반응형 까지만 제작되었으며, `data.template.json` 코드를 참고하여 `data.json`을 작성하여 사용해주세요.
+템플릿을 사용하시려면 `data.template.json` 코드를 참고하여 `data.json`을 작성해주세요.
+<br/>
+
+현재는 `Interface`를 작성하지 않고 `any`를 사용하고 있으며, 작성하신 `data.json`를 참고한 `Type`을 지정하여 사용해주세요.
+<br/>
+
 <br/>
 
 > 이해가 어렵다면, [portfolioDo](https://github.com/leedo97y/portfolioDo)를 참고하여 작성해주세요!
@@ -33,14 +38,14 @@
 
 - ### 프로필 부분
 
-  <img width="600" alt="profile part" src="https://github.com/leedo97y/portfolioDo/assets/99410440/8c16da29-b5ff-4b80-92f1-322b4e5338f1">
+  <img width="600" alt="profile temp" src="https://github.com/leedo97y/portfolioTemp/assets/99410440/0809645f-ecfc-4870-8889-29227228eb15">
 
   - 반응형으로 구성하며 정렬을 위해 `ProfileText`, `IntroComponents`의 컴포넌트로 분리하여 구성했습니다.
   - 이름, 생년월일, 주소, 이메일 주소, 깃헙 주소, 블로그 주소, 짧은 소개글로 이루어져 있습니다.
 
 - ### 프로젝트 부분
 
-  <img width="600" alt="project part" src="https://github.com/leedo97y/portfolioDo/assets/99410440/72c48d3c-d1ba-4bc6-b0bb-855c755e0c3e">
+  <img width="600" alt="project temp" src="https://github.com/leedo97y/portfolioTemp/assets/99410440/7b32cebf-20e8-4d39-8c87-6e7220fd22cd">
 
   - `time-line`을 사용하여 진행한 프로젝트를 시간 순으로 보여줍니다.
   - 각 포트폴리오의 메인 페이지 이미지와 기술스택, 프로젝트 기간, 기여도, 팀 구성, 짧은 프로젝트 소개글로 이루어져 있습니다.
@@ -48,7 +53,7 @@
 
 - ### 프로젝트 세부 페이지
 
-  <img width="600" alt="large  project detail" src="https://github.com/leedo97y/portfolioDo/assets/99410440/db7a8330-8ebc-49cd-851e-1165705fc948">
+  <img width="600" alt="detail page" src="https://github.com/leedo97y/portfolioTemp/assets/99410440/a843a4ba-5683-430c-872e-1223c5cf0126">
 
   - `time-line`의 각 프로젝트 '자세히 보기' 버튼을 클릭하여 볼 수 있습니다.
   - 프로젝트 로고와 프로젝트 기간, 메인 페이지 이미지, 프로젝트를 보여줄 수 있는 링크들, 기술 스택, 프로젝트 설명글로 이루어져 있습니다.
@@ -60,15 +65,15 @@
 
 > iphone SE size
 
-| <img width="373" alt="iphoneSE profile" src="https://github.com/leedo97y/portfolioDo/assets/99410440/723e4334-ca89-4cde-bbf7-199aaf440ffe"> | <img width="373" alt="iphoneSE project" src="https://github.com/leedo97y/portfolioDo/assets/99410440/0926426c-81a9-4bc4-a8da-5942ea2df01e"> | <img width="373" alt="iphone SE project detail" src="https://github.com/leedo97y/portfolioDo/assets/99410440/447fc0f7-a482-4f7f-8b04-4a0b6331149e"> |
+| <img width="373" alt="iphoneSE main temp" src="https://github.com/leedo97y/portfolioTemp/assets/99410440/ac219f46-392c-4dfb-843a-8c6ce845a894"> | <img width="373" alt="iphoneSE project temp" src="https://github.com/leedo97y/portfolioTemp/assets/99410440/778e1b54-a4b7-4ef4-b2d9-895563a3f616"> | <img width="373" alt="iphoneSE detail temp" src="https://github.com/leedo97y/portfolioTemp/assets/99410440/68ae782b-5b85-4c0f-ab1a-07605ffdf0be"> |
 | :------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------- |
-| iphoneSE profile part                                                                                                                       | iphoneSE project part                                                                                                                       | iphoneSE project detail                                                                                                                             |
+| iphoneSE profile part temp                                                                                                                      | iphoneSE project part temp                                                                                                                      | iphoneSE project detail temp                                                                                                                            |
 
 <br/>
 
 > Galaxy Fold size
 
-| <img width="265" alt="galaxy fold main" src="https://github.com/leedo97y/portfolioDo/assets/99410440/4d9cb6d1-ac8f-4b1f-a0c1-08d6f54f3e2a"> | <img width="265" alt="galaxy fold  project detail" src="https://github.com/leedo97y/portfolioDo/assets/99410440/2f842b98-689a-4336-aedd-0b6e06527873"> |
+| <img width="265" alt="galaxy fold main temp" src="https://github.com/leedo97y/portfolioTemp/assets/99410440/26a7ed7a-3623-432a-93d7-aacea30b88e3"> | <img width="265" alt="galaxy fold dt temp" src="https://github.com/leedo97y/portfolioTemp/assets/99410440/ecde74af-6f63-45b1-8d97-a3b9f1ca8e4a"> |
 | :------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Galaxy Fold main                                                                                                                            | Galaxy Fold project detail                                                                                                                             |
 
@@ -76,9 +81,9 @@
 
 > Galaxy A51/71 size
 
-| <img width="203" alt="galaxy A51:71 main" src="https://github.com/leedo97y/portfolioDo/assets/99410440/79e83f24-da27-47cd-8161-769af9897aa8"> | <img width="203" alt="galaxy A51:71  project detail" src="https://github.com/leedo97y/portfolioDo/assets/99410440/e78ceadb-d77d-440b-bc61-7d9ad61ec29f"> |
+| <img width="203" alt="galaxy A51:71 main temp" src="https://github.com/leedo97y/portfolioTemp/assets/99410440/78a4de2f-6f0e-4eda-a861-d02fd17f9d2b"> | <img width="203" alt="galaxy A51:71 dt temp" src="https://github.com/leedo97y/portfolioTemp/assets/99410440/40ac6f71-ad4b-4778-b2a0-16f53140a3b4"> |
 | :-------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Galaxy A51/71 main                                                                                                                            | Galaxy A51/71 project detail                                                                                                                             |
+| Galaxy A51/71 main                                                                                                                            | Galaxy A51/71 project detail  |
 
 <br/>
 <br/>
