@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import TestMain from "@images/testMain.png";
+import PrevBtn from "@/layouts/PrevBtn";
 
 const Test2Page = () => {
   const [data, setData] = useState<any>();
@@ -101,6 +102,7 @@ const Test2Page = () => {
           </div>
         </div>
       </div>
+      <PrevBtn />
     </>
   );
 };
